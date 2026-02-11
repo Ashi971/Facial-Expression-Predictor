@@ -1,0 +1,7 @@
+mood_env/
+__pycache__/
+*.pyc
+*.npy
+*.h5
+.DS_Store
+Thumbs.db
