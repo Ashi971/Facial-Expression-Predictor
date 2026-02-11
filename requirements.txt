@@ -2,5 +2,10 @@ tensorflow
 opencv-python
 numpy
 matplotlib
-sklearn
+scikit-learn
+
 pandas
+opencv-python==4.9.0.80
+mediapipe==0.10.9
+pygame==2.5.2
+numpy==1.26.4
