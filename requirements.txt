@@ -6,6 +6,7 @@ scikit-learn
 
 pandas
 opencv-python==4.9.0.80
-mediapipe==0.10.9
+mediapipe
+
 pygame==2.5.2
 numpy==1.26.4
